@@ -25,13 +25,21 @@ To run this script, ensure your project directory looks like this:
 Project_Folder/
 │
 ├── main.py                # The python script provided
+
 ├── data/
+
 │   ├── french_words.csv   # Source data
+
 │   └── to_learn.csv       # Generated automatically (progress file)
+
 └── images/
+
     ├── card_front.png
+    
     ├── card_back.png
+    
     ├── right.png
+    
     └── wrong.png
 ### How to Use
 Launch the app. A card with a French word will appear.
